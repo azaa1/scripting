@@ -25,3 +25,4 @@ python python_scripts/<script>
 #### Note: Change ```<script>``` to script name.
 
 Test
+Test2
